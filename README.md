@@ -44,7 +44,7 @@ Generated 8,000+ agriculture Q&A pairs covering:
 - 7 government schemes (PM-KISAN, PMFBY, MSP...)
 - Central India focus (Chhattisgarh, MP)
 
-Dataset: [huggingface.co/datasets/YOUR_USERNAME/krishi-mitra-agriculture-qa](link)
+Dataset: [huggingface.co/datasets/aiwithadarsh/krishi-mitra-agriculture-qa](link)
 
 ## 🚀 Quick Start
 

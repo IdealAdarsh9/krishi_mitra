@@ -70,9 +70,13 @@ Or open directly in Colab:
 \```
 
 krishi-mitra/
+
 ├── notebooks/          # Colab notebooks for each stage
+
 ├── src/                # Core Python modules
+
 ├── data/               # Sample dataset
+
 └── assets/             # Images and demo GIF
 
 \```

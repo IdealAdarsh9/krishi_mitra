@@ -48,7 +48,7 @@ Generated 8,000+ agriculture Q&A pairs covering:
 - 7 government schemes (PM-KISAN, PMFBY, MSP...)
 - Central India focus (Chhattisgarh, MP)
 
-Dataset: [https://huggingface.co/datasets/aiwithadarsh/krishi-mitra-agriculture-qa](link)
+[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/aiwithadarsh/krishi-mitra-agriculture-qa)
 
 ## 🚀 Quick Start
 
@@ -68,11 +68,13 @@ Or open directly in Colab:
 ## 🗂️ Project Structure
 
 \```
+
 krishi-mitra/
 ├── notebooks/          # Colab notebooks for each stage
 ├── src/                # Core Python modules
 ├── data/               # Sample dataset
 └── assets/             # Images and demo GIF
+
 \```
 
 ## 🙏 Acknowledgements

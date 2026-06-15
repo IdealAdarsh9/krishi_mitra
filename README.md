@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Krishi Mitra Banner">
+  <img src="assets/banner.jpeg" alt="Krishi Mitra Banner">
 </p>
 
 # 🌾 Krishi Mitra — AI Agriculture Assistant

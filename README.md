@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
+
 # 🌾 Krishi Mitra — AI Agriculture Assistant
 
 An end-to-end fine-tuned LLM chatbot for Indian farmers that answers 

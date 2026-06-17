@@ -118,17 +118,16 @@ User Input (Text / Image / Voice)
 ### Run locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/krishi-mitra
-cd krishi-mitra
-pip install -r requirements.txt
-python app.py
+# Load model directly
+from transformers import AutoModel
+model = AutoModel.from_pretrained("aiwithadarsh/krishi-mitra-Mistral-7B-Instruct-v0.2", dtype="auto")
 ```
 
 ### Run in Colab
 
 Click the badge to open the full pipeline notebook (dataset generation + fine-tuning):
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gJ55QKp47GCeXNC8Ex1YIAfZOVuFNb_J#scrollTo=5IrlZkPlW0C3)
 
 ---
 
@@ -195,10 +194,6 @@ trainable_params = "~0.3% of 7B parameters"
 **Hindi — Government scheme:**
 > 👨‍🌾 *"पीएम किसान के लिए कैसे आवेदन करें?"*  
 > 🤖 *"पीएम-किसान योजना में ₹6,000 सालाना मिलते हैं। pmkisan.gov.in पर जाएं, आधार और बैंक खाते की जानकारी दर्ज करें..."*
-
-**Chhattisgarhi — Crop advice:**
-> 👨‍🌾 *"मोर सोयाबीन के पान पीयर होवत हावय काय करंव?"*  
-> 🤖 *"ए पीला मोजेक वायरस के लक्षण हे। सफेद मक्खी ल नियंत्रित करे बर Imidacloprid 17.8SL छिड़काव करव..."*
 
 ---
 

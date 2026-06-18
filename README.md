@@ -4,10 +4,10 @@
 
 ![Krishi Mitra Banner](https://img.shields.io/badge/🌾_Krishi_Mitra-AI_Agriculture_Assistant-green?style=for-the-badge)
 
-[![HuggingFace Model](https://img.shields.io/badge/🤗_Model-Mistral--7B_QLoRA-yellow?style=flat-square)](https://huggingface.co/YOUR_USERNAME/krishi-mitra-mistral-7b-qlora)
-[![HuggingFace Dataset](https://img.shields.io/badge/🤗_Dataset-8k+_Q%26A_Pairs-blue?style=flat-square)](https://huggingface.co/datasets/YOUR_USERNAME/krishi-mitra-agriculture-qa)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-HuggingFace_Spaces-orange?style=flat-square)](https://YOUR_USERNAME-krishi-mitra.hf.space)
-[![Open In Colab](https://img.shields.io/badge/Open_In-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](YOUR_COLAB_LINK)
+[![HuggingFace Model](https://img.shields.io/badge/🤗_Model-Mistral--7B_QLoRA-yellow?style=flat-square)](https://huggingface.co/aiwithadarsh/krishi-mitra-mistral-7b-qlora)
+[![HuggingFace Dataset](https://img.shields.io/badge/🤗_Dataset-8k+_Q%26A_Pairs-blue?style=flat-square)](https://huggingface.co/datasets/aiwithadarsh/krishi-mitra-agriculture-qa)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-HuggingFace_Spaces-orange?style=flat-square)](https://huggingface.co/spaces/aiwithadarsh/krishi-mitra)
+[![Open In Colab](https://img.shields.io/badge/Open_In-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1gJ55QKp47GCeXNC8Ex1YIAfZOVuFNb_J#scrollTo=5IrlZkPlW0C3)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 **An end-to-end fine-tuned LLM chatbot for Indian farmers**  
